@@ -1,0 +1,6 @@
+@ConestogaVirtualGameStore.Server_HostAddress = http://localhost:5222
+
+GET {{ConestogaVirtualGameStore.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
